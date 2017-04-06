@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/25.0">
+	
+	<id>air.FunctionTest</id>
+	<versionNumber>0.1</versionNumber>
+	<supportedProfiles>mobileDevice</supportedProfiles>
+	<filename>Main</filename>
+	
+	<name>FunctionTest</name>
+	<description></description>
+	<copyright></copyright>
+    
+	<initialWindow>
+		<title>FunctionTest</title>
+		<content>Main.swf</content>
+		<visible>true</visible>
+		<fullScreen>true</fullScreen>
+		<renderMode>direct</renderMode>
+	</initialWindow>
+</application>

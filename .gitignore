@@ -1,0 +1,5 @@
+bin
+obj
+*.swf
+*.as3proj
+*.ipa
